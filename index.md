@@ -1,4 +1,4 @@
-Andrew
+# Andrew
 
 👋  Heyyo, I'm Andrew!
 
@@ -9,12 +9,12 @@ At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 
 🎨  When I'm not working, I like to do CrossFit and hike with my dog.
 
-Favorite quote
+## Favorite quote
 
 "Maybe I'll come up with a good quote" - Carson Davis
 
-Countries visited
+## Countries visited
 
-Germany
-Denmark
-United States of America
+- Germany
+- Denmark
+- United States of America
