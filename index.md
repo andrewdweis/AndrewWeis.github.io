@@ -8,3 +8,13 @@ Andrew
 At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 
 🎨  When I'm not working, I like to do CrossFit and hike with my dog.
+
+Favorite quote
+
+"There's no reason to have a plan B because it distracts from plan A." - Will Smith
+
+Countries visited
+
+Germany
+Denmark
+United States of America
