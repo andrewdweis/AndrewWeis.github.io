@@ -13,8 +13,21 @@ Favorite quote
 
 "Maybe I'll come up with a good quote" - Carson Davis
 
-Countries visited
+States visited
 
-Germany
-Denmark
-United States of America
+Tennessee
+Alabama
+Washington
+Virginia
+Utah
+Maine
+Colorado
+Wyoming
+Montana
+Idaho
+Mississippi
+Iowa
+Illinois
+New York
+New Hampshire
+Massachusetts
