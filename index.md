@@ -11,7 +11,7 @@ At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 
 Favorite quote
 
-"There's no reason to have a plan B because it distracts from plan A." - Will Smith
+"Maybe I'll come up with a good quote" - Carson Davis
 
 Countries visited
 
